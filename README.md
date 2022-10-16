@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xc6bd
-- 👀 I’m interested in frontend c/s .
-- 🌱 I’m currently learning development of games .
+- 👀 I’m interested in frontend c/s
+- 🌱 I’m currently learning development of games
 - 📫 How to reach me  👇
 
 
