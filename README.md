@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@再躺一会儿吧](https://github.com/0xc6bd)
+- 👋 Hi, I’m [@再躺一会儿吧](https://github.com/pzzya)
 - 👀 I’m interested in frontend c/s
 - 🌱 I’m currently learning development of games
 - 📫 How to reach me  👇
